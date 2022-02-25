@@ -6,6 +6,24 @@ Büyük hacimli verilerdir ve geleneksel veri işleme yazılımlarıyla yönetil
 Büyük veri her gün karşı karşıya olduğumuz koca bir okyanus olarak düşünebilir. Bu okyanusun en büyük tedarikçileri de bizleriz. Bilgisayarlarımızdan, mobil cihazlarımızdan ve makine sensörlerinden akan bu veri kurumlar tarafından; kararları yönlendirmek, süreç ve politikaları iyileştirmek, müşteri odaklı ürün ve hizmetler oluşturmak için kullanılabilmektedir. Büyük veri sadece hacmi ile değil çeşitliliği ve karmaşıklığı nedeniyle de böyle bir tanımı hak etmektedir. Physics.org tarafından yapılan ilginç bir araştırmaya göre mevcut toplam veriyi çevrimiçi olarak indirmek için yaklaşık 181 milyon yıla ihtiyaç duyulduğu belirtilmektedir. 
 <p align="center">
   <img  src="https://github.com/okansungur/BigData/blob/main/Article/r1.png">
-
 </p>
+<p align="center">
   2010'dan 2024'e kadar dünya çapında veri / bilgi hacmi (zettabyte)
+</p>
+Gün geçtikçe daha da önem kazanan büyük veri kavramında; kişisel mahremiyet konusu da günümüzde en çok sorgulanan kavramların başında gelmektedir.
+Büyük veri geleneksel olarak kullandığımız veritabanlarındaki depolama işlemleri ve hesaplama kapasitesini aşan verilerle ifade edilir. Bu verileri kullanmaka için daha fazla işlemci kapasitesine ve farklı sistemlere ihtiyaç duyulur. Birçok büyük firma Google Amazon, Facebook yakın zamanda büyük verilerden faydalanmaya başlamıştır. Büyük verilerde 5V kavramı mevcuttur. Hacim (volume), çeşitlilik (variety), hız (velocity), doğrulama (verification,) değer (value).
+**Hacim**: Terrabayttan petabaytlara kadar olan veri aralıklarını tanımlar.
+**Çeşitlilik**: Veri çeşitliliği vardır ve farklı kaynaklar kullanılır.
+**Hız**: Elde edilen verilerin hızlı bir şekilde elde edilip kısa zamanda veri üretilmesi gerekmektedir.
+**Doğrulama**: Oldukça hızlı büyüyen bu verilerin güvenli olup olmadığının kontrolü için doğrulamaya ihtiyaç duyulmaktadır. 
+**Değer**: Büyük verilerin gerekli filtrelerden geçitildikten sonra bizim için değer sağlaması önemlidir. Aslında asıl amaç veriden değer sağlanmasıdır.
+Akıllı telefonların günlük yaşantımıza girmesiyle birlikte sosyal medya hesaplarında okuduğumuz, izlediğimiz, yazdığımız her işlem veri üretmektedir. Konumumuz, sağlık durumumuz, alışkanlıklarımızla ilgili aslında kendimizle ilgili bir çok veri paylaşımında bulunuruz. Bunun etik boyutunu bir kenara bırakacak olursak sağladığımız bu veriler; yapay zekanın gelişimine katkıda bulunmaktadır. Geleneksel yöntemlerle kullanılan ve yazılımlarla yönetilemeyen büyük veriler için, yeni teknolojiler geliştirilmiş ve geliştirilmeye de devam etmektedir. Tabiki bunları geliştiren kurumların başında Facebook, Amazon ve Google, Microsoft çok yüksek sayıda kullanıcıdan gelen çok büyük veriyle uğraştıkları için bu yeni yazılımları geliştirme ihtiyacı hissetmişlerdir.
+Büyük veriler yapılandırılmış ve yapılandırılmamış verilerden meydana gelirler. Yapılandırılmış veriler ürün, müşteri, fiyat, adet gibi ayrılmış kategorilerden meydana gelmektedir. Yapılandırılmamış veri ise sosyal medya paylaşımları, beğeniler, tıklamalar gibi kullanıcı hareketlerini içermektedir.
+##### Veri Ön İşleme
+Veri Ön İşleme süreci; veri madenciliği modelleri kurulmadan önce, veri seti üzerinde yapılan düzeltmeler olarak nitelendirilir [3]. Bu işlemler tekrarlı verinin kaldırılması, eksik verilerin tamamlanması veya duruma göre çıkarılması, veri dönüştürülmesi, veri temizlenmesi, bütünleştirme gibi işlemleri içeren süreçlerdir. Amaç verilerin daha anlamlı hale getirilmesidir. En kritik süreçlerden bir tanesi, bu veri ön işleme sürecidir. Bu süreç veri madenciliğinde en fazla vakit alan süreçtir ve burada yapılacak bir hata eldeki veriyi değersizleştirebilir.
+<p align="center">
+  <img  src="https://github.com/okansungur/BigData/blob/main/Article/r2.png">
+</p>
+<p align="center">
+ Veri Ön İşleme Süreçleri 
+</p>
