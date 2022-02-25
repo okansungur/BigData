@@ -27,3 +27,31 @@ Veri Ön İşleme süreci; veri madenciliği modelleri kurulmadan önce, veri se
 <p align="center">
  Veri Ön İşleme Süreçleri 
 </p>
+
+##### Hadoop
+Dağıtık dosya sistemi kavramı, sıradan sunucuların disklerini bir araya getirerek büyük ve sanal bir disk oluşturan dosya sistemidir. Bu sayede çok büyük boyuttaki dosyalar sistemde saklanabilir ve üzerinde işlemler yapılabilir. Hadoop, ilişkisel veritabanı sistemlerinden farklı olarak, verileri farklı bilgisayarlarda tutan dağıtık dosya sistemi ve eşle indirge yöntemini kullanan Java programlama dili ile geliştirilmiş, açık kaynak kodlu bir kütüphanedir. Eşleme işlemi analiz edilen veri bloğu içerisinden almak istediğimiz verileri alır. İndirgeme işlemi ise alınan bu veri üzerinde yapmak istediğimiz işlemi gerçekleştirir.
+
+<p align="center">
+  <img  src="https://github.com/okansungur/BigData/blob/main/Article/r3.png">
+</p>
+<p align="center">
+ Hadoop Ekosistemi
+</p>
+
+Hadoop, tahmini analitik, veri madenciliği ve makine öğrenimi uygulamaları da dahil olmak üzere, gelişmiş analitik işlemleri desteklemek için kullanılan, büyüyen büyük veri teknolojileri ekosisteminin merkezinde yer almaktadır. Hadoop, çeşitli yapılandırılmış ve yapılandırılmamış veri biçimlerini kullanabilir ve kullanıcılara ilişkisel veritabanlarının veya veri ambarlarının sağladığından daha fazla veri toplama, işleme ve analiz etme esnekliği sunar.
+Hadoop'un ticari dağıtımları şu anda dört ana büyük veri platformu satıcısı tarafından sunulmaktadır: Amazon servisleri (AWS), Cloudera, Hortonworks ve MapR Technologies. Ek olarak, Google, Microsoft ve diğer firmalar, Hadoop ve ilgili teknolojiler üzerine kurulu bulut tabanlı yönetilen hizmetler sunar.
+Büyük veri muazzam miktarda veriden oluşur. Hadoop ise bu verileri depolamak, işlemek ve analiz etmek için kullanılan kütüphanelerin topluluğudur. Dolayısıyla bu iki kavram birbirinden farklı olmasına rağmen, birbirleriyle içi içe geçmiştir
+
+Büyük verinin günümüzde en yaygın kullanım alanı olarak müşteri ihtiyaç davranış ve tercihlerini yönelik analizler yapılmasını sağlamasıdır. Şirketlerin potansiyel hedef kitlesine rahatlıkla erişmelerini sağlar. Yakın zamanda Facebook'un kullanıcı bilgilerini Cambridge Analytica'ya satması ve Cambridge Analytica'nın bu bilgileri ABD başkanlık seçimlerinde belirli bir kitleye reklam kampanyaları gönderip, toplumun hassasiyetlerini kullanarak,
+seçim sonuçlarını etkilemedeki başarısı ve buna bağlı olarak Mark Zuckerberg’in ABD Kongresi karşısına çıkıp ifade vermesi tamamen büyük veri ile ilgili bir konudur.
+Büyük Veri her endüstri alanıyla doğrudan iç içedir. Bankacılık ve finans alanında, birçok farklı kanaldan gelen veriler bankacılık sektörün bu verileri yönetmek için farklı yöntemler bulmaya yöneltmiştir. Gerek müşteri memnuniyetinin sağlanmasında gerekse risk ve sahtekarlık işlemlerine karşı gereken önlemlerin alınmasında, büyük veri önemli faydalar sağlamaktadır. Diğer finans kurumlarına göre de daha avantajlı olmalarını sağlamaktadır.
+Tıp alanında büyük verinin kullanılması çok büyük bir gelişmedir. Sayılı hastadan tıbbi numune almak yerine, günümüzde kullanılan akıllı saat ve giyilebilir teknolojiler sayesinde milyonlarca insandan sağlık verisi anlık olarak alınabilmektedir. Bu büyüklükteki bir veriyi analiz ederek sorunların daha hızlı ve kolayca tespit edilmesi, daha doğru teşhisler konulması ve daha doğru tedavilerin uygulanmasını mümkün olmaktadır. Eğitim alanında ise öğrencilerin hangi konularda zayıf olduklarının belirlenmesinde, hangi konuları rahatça öğrenebildiklerinin belirlenmesinde ve buna bağlı olarak, uygulanan müfredatın nasıl geliştirilmesi konusunda karar verilmesini de sağlamaktadır.
+
+
+
+
+
+
+
+
+
