@@ -4,3 +4,6 @@ Büyük hacimli verilerdir ve geleneksel veri işleme yazılımlarıyla yönetil
 
 <p align=center><b> Büyük Veri </b></p>
 Büyük veri her gün karşı karşıya olduğumuz koca bir okyanus olarak düşünebilir. Bu okyanusun en büyük tedarikçileri de bizleriz. Bilgisayarlarımızdan, mobil cihazlarımızdan ve makine sensörlerinden akan bu veri kurumlar tarafından; kararları yönlendirmek, süreç ve politikaları iyileştirmek, müşteri odaklı ürün ve hizmetler oluşturmak için kullanılabilmektedir. Büyük veri sadece hacmi ile değil çeşitliliği ve karmaşıklığı nedeniyle de böyle bir tanımı hak etmektedir. Physics.org tarafından yapılan ilginç bir araştırmaya göre mevcut toplam veriyi çevrimiçi olarak indirmek için yaklaşık 181 milyon yıla ihtiyaç duyulduğu belirtilmektedir. 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/okansungur/BigData/blob/main/Article/r1.png">
+</p>
